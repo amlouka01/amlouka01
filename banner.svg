@@ -137,7 +137,7 @@
 <circle r="2.5" fill="#ffffff" fill-opacity="0.9"><animate attributeName="cx" values="395.3;427.0;394.4;395.3" dur="14.8s" repeatCount="indefinite"/><animate attributeName="cy" values="246.6;241.5;271.1;246.6" dur="14.8s" repeatCount="indefinite"/></circle>
 <circle r="2" fill="#ffffff" fill-opacity="0.9"><animate attributeName="cx" values="97.4;73.7;98.5;97.4" dur="10.4s" repeatCount="indefinite"/><animate attributeName="cy" values="136.8;133.4;128.7;136.8" dur="10.4s" repeatCount="indefinite"/></circle>
 <circle r="2.5" fill="#ffffff" fill-opacity="0.9"><animate attributeName="cx" values="547.5;534.8;513.8;547.5" dur="12.1s" repeatCount="indefinite"/><animate attributeName="cy" values="249.7;260.8;252.4;249.7" dur="12.1s" repeatCount="indefinite"/></circle>
-<text x="500.0" y="150" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="64" font-weight="700" letter-spacing="8" fill="url(#tx)">AMLOUKA<animate attributeName="opacity" values="0;1" dur="1.6s" fill="freeze"/></text>
-<text x="500.0" y="188" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="18" letter-spacing="6" fill="#bdbdbd">SOFTWARE DEVELOPER<animate attributeName="opacity" values="0;1" dur="2.4s" fill="freeze"/></text>
+<text x="500.0" y="150" text-anchor="middle" font-family="&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="68" font-weight="300" letter-spacing="14" fill="url(#tx)">AMLOUKA<animate attributeName="opacity" values="0;1" dur="1.6s" fill="freeze"/></text>
+<text x="500.0" y="188" text-anchor="middle" font-family="&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="18" letter-spacing="6" fill="#bdbdbd">SOFTWARE DEVELOPER<animate attributeName="opacity" values="0;1" dur="2.4s" fill="freeze"/></text>
 <rect x="1" y="1" width="998" height="298" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.35"/>
 </g></svg>
